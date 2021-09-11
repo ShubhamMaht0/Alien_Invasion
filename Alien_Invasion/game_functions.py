@@ -207,7 +207,7 @@ def update_aliens(ai_settings,stats,sb,screen,ship,aliens,bullets):
 
     # Look for alien-ship collisions.
     if pygame.sprite.spritecollideany(ship,aliens):
-        print("Ship hit!!!")
+        
         ship_hit(ai_settings,stats,sb,screen,ship,aliens,bullets)
 
     # Look for aliens hitting the bottom of the screen.
