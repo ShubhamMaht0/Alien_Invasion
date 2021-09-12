@@ -1,2 +1,2 @@
 # Alien Invasion
-**A ship that shoots aliens.**
+**A ship that shoot aliens.**
