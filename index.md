@@ -18,6 +18,6 @@
 ### **scoring**
 player get +50 points if he/she shoot an alien in 1st level **,**+75 in 2nd level and similarly it increses at every level. 
 
-# deystroy all **ALIENS!**
+# deystroy all **ALIENS !**
 
 ![alien_invasion](https://user-images.githubusercontent.com/85242150/132993934-799b0b0e-9999-4364-a5ef-538e01e641b7.gif)
